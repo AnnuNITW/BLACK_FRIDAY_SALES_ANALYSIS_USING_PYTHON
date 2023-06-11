@@ -1,4 +1,4 @@
-FRIDAY_SALES_ANALYSIS_USING_PYTHON
+ BLACK_FRIDAY_SALES_ANALYSIS_USING_PYTHON
 
 Description:
 This project focuses on analyzing Friday sales data to gain insights and perform exploratory data analysis using python.
