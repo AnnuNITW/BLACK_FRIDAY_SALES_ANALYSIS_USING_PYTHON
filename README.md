@@ -10,18 +10,18 @@ We have importing following python libraries Numpy,Pandas,Matplotlib,Seaborn.
 Data Description:
 The dataset used for this analysis contains Friday sales data for a specific period. The data is provided in CSV format and includes the 
 following columns:
-> User_Id : Id of a person,
-> Product_Id : Id of each product,
-> Gender : Gender of each person,
-> Age : Age of each person,
-> Occupation : Occupation of each person,
-> City_Category : City from which person belongs ,
-> Stay_In_Current_City : City from which person currently stay ,
-> Marital_Status : Married person was represented by 1 and unmarried by 0,
-> Product_Category_1 : Products belong from Product Category 1,
-> Product_Category_2 : Products belong from Product Category 2,
-> Product_Category_3 : Products belong from Product Category 3,
-> Purchase : Amount spend by Customer 
+ User_Id : Id of a person,
+ Product_Id : Id of each product,
+ Gender : Gender of each person,
+ Age : Age of each person,
+ Occupation : Occupation of each person,
+ City_Category : City from which person belongs ,
+ Stay_In_Current_City : City from which person currently stay ,
+ Marital_Status : Married person was represented by 1 and unmarried by 0,
+ Product_Category_1 : Products belong from Product Category 1,
+ Product_Category_2 : Products belong from Product Category 2,
+ Product_Category_3 : Products belong from Product Category 3,
+ Purchase : Amount spend by Customer 
 
 In this Dataset there are 5,50,068 rows and 12 columns.
  
