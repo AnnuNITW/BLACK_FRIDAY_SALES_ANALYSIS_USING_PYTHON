@@ -1,4 +1,6 @@
  BLACK_FRIDAY_SALES_ANALYSIS_USING_PYTHON
+ ![image](https://github.com/AnnuNITW/BLACK_FRIDAY_SALES_ANALYSIS_USING_PYTHON/assets/115100166/f3b5c083-09a4-4260-8872-54d02b67955e)
+
 
 Description:
 This project focuses on analyzing Friday sales data to gain insights and perform exploratory data analysis using python.
