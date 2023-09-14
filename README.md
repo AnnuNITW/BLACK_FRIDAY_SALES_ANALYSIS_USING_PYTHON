@@ -47,11 +47,11 @@ Dataset Walkthrough :
 Here we basically check out the basic things regarding out such as column names ,data types of columns , if there any null values present inside 
 our dataset . To remove null values,  we use dropna() function as discussed earlier
 
-Analysing Columns : 
+Analyzing Columns : 
 In this section we have mainly used the unique() and nunique() functions to know the number of unique values present in every individual columns.
 Analyzing individual columns tells us about the different kind of unique values present in our dataset.
 
-Analysing Gender : 
+Analyzing Gender : 
 In this section we basically analyze Gender Column .In Gender Column have male and female values.We have even used  groupby function to see which 
 gender is purchasing more in our dataset .So we have presented them with the hepl of pie chart and bar plot in a nice manner.
 
