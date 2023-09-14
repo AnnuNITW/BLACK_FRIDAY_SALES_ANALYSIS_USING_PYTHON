@@ -53,7 +53,7 @@ Analyzing individual columns tells us about the different kind of unique values 
 
 Analyzing Gender : 
 In this section we basically analyze Gender Column .In Gender Column have male and female values.We have even used  groupby function to see which 
-gender is purchasing more in our dataset .So we have presented them with the hepl of pie chart and bar plot in a nice manner.
+gender is purchasing more in our dataset .So we have presented them with the help of pie chart and bar plot in a nice manner.
 
 Analyzing Age & Marital Status:
 we can again use the groupby function to see which age group is making the maximum number of order in our dataset. We can also see which age group 
