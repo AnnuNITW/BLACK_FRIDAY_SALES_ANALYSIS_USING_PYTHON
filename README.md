@@ -27,7 +27,7 @@ following columns:
 
  DATASET LINK : https://www.kaggle.com/datasets/sdolezel/black-friday    
 
-In this Dataset there are 5,50,068 rows and 12 columns.
+In this Dataset there are 5,37,577 rows and 12 columns.
  
 Data Cleaning:
 In our data set there are 2 columns  Product_Category_2 and Product_Category_3 contains null values , to remove these null values we use dropna() 
