@@ -7,7 +7,7 @@ This project focuses on analyzing Friday sales data to gain insights and perform
 Our main goal will be to do various kind of analysis and get inferences which will be able to help to provide valuable insights on the market .
 
 Importing Dependencies:
-We have importing following python libraries Numpy,Pandas,Matplotlib,Seaborn.
+We have importing following python libraries Pandas,Matplotlib
 
 Data Description:
 The dataset used for this analysis contains Friday sales data for a specific period. The data is provided in CSV format and includes the 
